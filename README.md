@@ -2,8 +2,8 @@
   
 
 #  About Me:
-## Hey there, Naveed here!<br>
-## I write code.
+## Hey there, Naveed here!
+### I write code.
 
 
 ## 🌐 Socials:
