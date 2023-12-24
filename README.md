@@ -6,7 +6,12 @@
 
  
 #### I write code.
- 
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Naveed-SNR&icon=5&color=0&no-frame=true)](https://visitcount.itsvg.in)
+
+---
 
 ## 🌐 Socials:
 
@@ -14,7 +19,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveed.snr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveedsnr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Naveed-SNR) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/naveed_snr) 
 
-
+---
 
 
 ## 🧰 Languages and Tools:
@@ -61,35 +66,26 @@
 
 
 
-
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Naveed-SNR&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 
-
-# 📊 GitHub Stats:
-
-
+---
+## 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=Naveed-SNR&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+
+![](https://github-readme-stats.vercel.app/api?username=Naveed-SNR&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveed-SNR&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed-SNR&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-### 🔝 Top Contributed Repo
-
-
-
-![](https://github-contributor-stats.vercel.app/api?username=Naveed-SNR&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Naveed-SNR&limit=5&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed-SNR&theme=github_dark&hide_border=true&include_all_commits=true&count)
 
 
 
 
 
 
-
-[![](https://visitcount.itsvg.in/api?id=Naveed-SNR&icon=5&color=0&no-frame=true)](https://visitcount.itsvg.in)
 
