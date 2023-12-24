@@ -1,10 +1,5 @@
 
 # Hey there, Naveed here!
-
-
-
-
- 
 #### I write code.
 
 
