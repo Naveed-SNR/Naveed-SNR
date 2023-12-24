@@ -4,7 +4,6 @@
 
 
 
----
  
 #### I write code.
  
@@ -22,8 +21,6 @@
 
 
 
-
----
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -48,9 +45,6 @@
 </p>
 
 
-
-
----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 
@@ -67,8 +61,6 @@
 
 
 
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Naveed-SNR&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -87,8 +79,6 @@
 
 
 
-
----
 ### 🔝 Top Contributed Repo
 
 
@@ -100,6 +90,6 @@
 
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Naveed-SNR&icon=5&color=0&no-frame=true)](https://visitcount.itsvg.in)
 
