@@ -6,13 +6,8 @@
 
 ---
  
-  I write code.
-  <br><br>
-
-
-
-
----
+#### I write code.
+ 
 
 ## 🌐 Socials:
 
