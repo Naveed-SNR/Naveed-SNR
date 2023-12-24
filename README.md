@@ -1,5 +1,10 @@
 
 # Hey there, Naveed here!
+
+
+
+
+---
   <br><br>
   I write code.
   <br><br>
@@ -10,6 +15,11 @@
 ---
 
 ## 🌐 Socials:
+
+
+
+
+---
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveed.snr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveedsnr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Naveed-SNR) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/naveed_snr) 
 
 
@@ -17,6 +27,11 @@
 
 ---
 ## 🧰 Languages and Tools:
+
+
+
+
+---
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -45,6 +60,11 @@
 
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
+
+
+
+---
 <div align="center">
 <a href="https://github.com/Naveed-SNR">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveed-SNR&theme=github_dark" height="180em" />
@@ -69,6 +89,11 @@
 ---
 
 # 📊 GitHub Stats:
+
+
+
+
+---
 ![](https://github-readme-stats.vercel.app/api?username=Naveed-SNR&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveed-SNR&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed-SNR&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -78,6 +103,11 @@
 
 ---
 ### 🔝 Top Contributed Repo
+
+
+
+
+---
 ![](https://github-contributor-stats.vercel.app/api?username=Naveed-SNR&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
